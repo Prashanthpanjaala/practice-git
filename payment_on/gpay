@@ -1,0 +1,41 @@
+☁️ What is Cloud Endpoint
+
+Cloud Endpoint usually refers to Google Cloud Endpoints.
+
+Simple Meaning
+
+A Cloud Endpoint is a gateway that manages APIs in the cloud.
+
+Think of it like:
+🏢 Receptionist for APIs
+
+It helps:
+
+Control who can access your API
+Secure APIs
+Monitor API usage
+Handle authentication
+Example
+
+If you create an API for a Node.js app, Cloud Endpoints can:
+
+Protect the API
+Log requests
+Limit how many times users call it
+Authenticate users
+Real-world Analogy
+
+Cloud Endpoint =
+📞 Reception desk for your backend services
+
+All requests go through it first.
+
+💻 What is Intune
+
+Microsoft Intune is a device and application management tool from Microsoft.
+
+Simple Meaning
+
+Intune manages company laptops, mobiles, and apps remotely.
+
+It is widely used in:
