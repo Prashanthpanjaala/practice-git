@@ -1,0 +1,9 @@
+Think of it Like This 🎯
+Real LifeGit BranchesPhotocopy a documentCreate a branchEdit the photocopyMake changes in branchCompare with originalPull Request reviewReplace original if goodMerge to main
+
+Key Points ✅
+
+Branch = exact copy of main at that point in time
+You only add or edit what you need
+Original main stays untouched until merge
+No need to recreate existing files ever! 🚀
